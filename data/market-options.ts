@@ -801,5 +801,6 @@ export const MARKET_OPTIONS_MAP: Record<string, string> = {
   "IPW11": "Black and White Interior",
   "MT352": "Model 3 Long Range AWD",
   "MTY66": "Model Y Long Range RWD",
-  "MTY82": "Model Y Long Range RWD (Premium)"
+  "MTY82": "Model Y Long Range RWD (Premium)",
+  "WWY07": "19\" Nokian Winter Tires (non-studded)"
 };
