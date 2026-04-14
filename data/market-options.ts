@@ -693,6 +693,7 @@ export const MARKET_OPTIONS_MAP: Record<string, string> = {
   "WTW8": "19\" Pirelli Winter Tires",
   "WTX1": "19\" Michelin Primacy Tire Upgrade",
   "WWY06": "19\" Winter tires (Pirelli, DirectLease specific package code)",
+  "WWY07": "19\" Nokian Winter Tires (non-studded)",
   "WX00": "20\" Cyberstream Wheels",
   "WX20": "22\" Turbine Wheels",
   "WXNN": "No 20\" Nokian Winter Tires (non-studded)",
@@ -801,6 +802,5 @@ export const MARKET_OPTIONS_MAP: Record<string, string> = {
   "IPW11": "Black and White Interior",
   "MT352": "Model 3 Long Range AWD",
   "MTY66": "Model Y Long Range RWD",
-  "MTY82": "Model Y Long Range RWD (Premium)",
-  "WWY07": "19\" Nokian Winter Tires (non-studded)"
+  "MTY82": "Model Y Long Range RWD (Premium)"
 };
